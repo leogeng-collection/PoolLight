@@ -11,108 +11,93 @@
   },
   {
     "path": "app.js",
-    "bytes": 42787,
-    "sha256": "a1440bc070a606b6483f417057473ffd71eabecafa7f82f254fc47b7c7a268c1"
+    "bytes": 42806,
+    "sha256": "23952f1c6bfdbea4890e63d455be88dffb500fda79ac4dbdadde7f68ada76508"
   },
   {
-    "path": "assets/concept-C01-v2.png",
-    "bytes": 2394273,
-    "sha256": "cc6a283046dd00635248d76efdcc1300f343be039170228be134d6adb022948d"
+    "path": "climate.js",
+    "bytes": 18855,
+    "sha256": "9e365338a70a0862051d35373b5fba4b8554e5cfc9842dc16202120cfd21084c"
   },
   {
-    "path": "assets/concept-C01.png",
-    "bytes": 2149666,
-    "sha256": "d5ce9d5f37257776fd4397a7ac352a2dc62fb62faac7cd3edba0480ab069729c"
+    "path": "concepts-v3.js",
+    "bytes": 3448,
+    "sha256": "34581aaf71855b689d0241eb5629613ce3c7b07b278c148c016feedf3b1b9acb"
   },
   {
-    "path": "assets/concept-C02-v2.png",
-    "bytes": 2469421,
-    "sha256": "b179d726e0a8be7979e972bab11b6464f75b4abffed1248c538fd6aed28da58f"
+    "path": "content.js",
+    "bytes": 12536,
+    "sha256": "ec833418ca68fcf149e70e5968435e5c6a59c980c48f1c123050b37206d094e2"
   },
   {
-    "path": "assets/concept-C02.png",
-    "bytes": 2474041,
-    "sha256": "82b709ad39e36f2d8c86fcf0eb7e530eae377b492e381a7047d65df08427f44e"
+    "path": "data.json",
+    "bytes": 414342,
+    "sha256": "549d99f9ea6a6651ed8cc89f5cf1392361d13b210b61d1b2d715a3f0c6dbe1d8"
   },
   {
-    "path": "assets/concept-C03-v2.png",
-    "bytes": 2397404,
-    "sha256": "8d4d9f72704e6ca34273246ce3b210ead409c1628afcf03187a695793064f5b9"
+    "path": "index.html",
+    "bytes": 1565,
+    "sha256": "4a09b060ce85bf34f80a1cef6f770224092bc3c9333e5f405e664ed4616ed57c"
   },
   {
-    "path": "assets/concept-C03.png",
-    "bytes": 2416131,
-    "sha256": "a098060a724ab231079e45bba3b83ed3a2357f4a993bf68512805245ee8c35e3"
+    "path": "README.md",
+    "bytes": 2439,
+    "sha256": "0f660530408a0bf8b8babb1763b715277005722ead2c0cf835e3b7d2f8d779be"
   },
   {
-    "path": "assets/concept-C04-v2.png",
-    "bytes": 2355717,
-    "sha256": "83ad9e9b8050877443ab05ebf0c59cd5faf69e99efa8bfa3390bdc92efa8c0a3"
+    "path": "style.css",
+    "bytes": 11916,
+    "sha256": "2ac8ca4fde7419e7f47b225ce5c1b859880a9b2e7697071841ade7a7e1a8b199"
   },
   {
-    "path": "assets/concept-C04.png",
-    "bytes": 2301710,
-    "sha256": "311cc0a336db8305c86732b6033fa67c8b713c3dc6e2c79f182070401636e616"
+    "path": "assets/concept-D01-v3.png",
+    "bytes": 2206143,
+    "sha256": "a3f37ea89839ccaa78dacb7c73699976233528591123d22c08b7857ae760409e"
   },
   {
-    "path": "assets/concept-C05-v2.png",
-    "bytes": 2224187,
-    "sha256": "c1c60ef1d95682c3df2c5b74a7865d58384614d625f9357e5fa0b608159aeba7"
+    "path": "assets/concept-D02-v3.png",
+    "bytes": 2018469,
+    "sha256": "52a19c2186950985d7160950f3225212c781030f767a6729117cf8caebc63aca"
   },
   {
-    "path": "assets/concept-C05.png",
-    "bytes": 2096741,
-    "sha256": "078170f337295ae82b5a92a3118851252bc9bde9442c5d7c1f0b92ffc9379a6f"
+    "path": "assets/concept-D03-v3.png",
+    "bytes": 2131661,
+    "sha256": "3d740b4cfde54ee7c052fbfc124903b46d4191ae580689eb8978d1f522e82dec"
   },
   {
-    "path": "assets/concept-C06-v2.png",
-    "bytes": 2403234,
-    "sha256": "4ce92ff85fec2fdb6bcdf8546d41453a27ec695531be512d51d90f590ae36207"
+    "path": "assets/concept-D04-v3.png",
+    "bytes": 2102351,
+    "sha256": "8129d5455b97605456a4c19389dc4371e6af5512fcdc687d63214ef9d1ce67ed"
   },
   {
-    "path": "assets/concept-C06.png",
-    "bytes": 2239182,
-    "sha256": "7cbc6c4ca4e0b5ad64fff3a50f1668e2e9ec839a3e2158665180091a8077c855"
+    "path": "assets/concept-D05-v3.png",
+    "bytes": 2118488,
+    "sha256": "43dd64587a3b05e747e30f8599e42ec85aa5fb07796298383acdd7284b5cf800"
   },
   {
-    "path": "assets/concept-C07-v2.png",
-    "bytes": 2353622,
-    "sha256": "37630a5e0c3d59d627bbefe00f4cf34aed1b1ba683b5c969d8d3d59382e5e1f8"
+    "path": "assets/concept-D06-v3.png",
+    "bytes": 2035538,
+    "sha256": "586780570c2f0a3d49ee0b3f244e4ab7ec4697df5bb06230566e7f2bf8e439af"
   },
   {
-    "path": "assets/concept-C07.png",
-    "bytes": 2216027,
-    "sha256": "f870476ba977dc141e702aca08a52e2154060751033b64c616ee82a22a1597ff"
+    "path": "assets/concept-D07-v3.png",
+    "bytes": 2042399,
+    "sha256": "857197331a3ab61945836bf6d8bf99e3afc5519cd79c0e098449e568d58dde5b"
   },
   {
-    "path": "assets/concept-C08-v2.png",
-    "bytes": 2404291,
-    "sha256": "fbd0e9378da5483bff27d4214c18c6933a64db72172eee3d9915ce3dab3211b4"
+    "path": "assets/concept-D08-v3.png",
+    "bytes": 2144429,
+    "sha256": "aeca0aa85596ce2eee0e35c2a9e9821aab4d092e001b5fc5ef7dd1fdb79e9957"
   },
   {
-    "path": "assets/concept-C08.png",
-    "bytes": 2358146,
-    "sha256": "a34918ec94b8860dde845b08829e014874f03c281be70dd6d690b715e757cee4"
+    "path": "assets/concept-D09-v3.png",
+    "bytes": 2015092,
+    "sha256": "61618d74e74d6f512408aef411dc6c051895ccc085d17cf317b3942bdbc38c0a"
   },
   {
-    "path": "assets/concept-C09-v2.png",
-    "bytes": 2095795,
-    "sha256": "b94ac004e464306ce61d954d3531aa83155a3034c114ac3b24fa8a38a5a9d4a2"
-  },
-  {
-    "path": "assets/concept-C09.png",
-    "bytes": 2187264,
-    "sha256": "9098af46c7706b2219b7e6e841a465aeed9eb3e32a8ea3779ce4ddd3b0cef9cb"
-  },
-  {
-    "path": "assets/concept-C10-v2.png",
-    "bytes": 2402290,
-    "sha256": "9c9c70ddc05fa14e3c38f8fb30f1f5cf843773c113f5d2eb6204ced80e9e62a9"
-  },
-  {
-    "path": "assets/concept-C10.png",
-    "bytes": 2215221,
-    "sha256": "0b3a5d494f370d459d96cc06f4500d6244004979e3de30d25d249a02cc168e6c"
+    "path": "assets/concept-D10-v3.png",
+    "bytes": 2021472,
+    "sha256": "e74f8031b922b3367e7bdf627f054a7e541eeae2b9ea1300626b345849045811"
   },
   {
     "path": "assets/P02-01.png",
@@ -138,45 +123,5 @@
     "path": "assets/review-analysis.md",
     "bytes": 16637,
     "sha256": "c32fd5004b114164a387d975be804122432d486cc8e472f624a83d74866eed86"
-  },
-  {
-    "path": "climate.js",
-    "bytes": 18855,
-    "sha256": "9e365338a70a0862051d35373b5fba4b8554e5cfc9842dc16202120cfd21084c"
-  },
-  {
-    "path": "concepts-v2.js",
-    "bytes": 3449,
-    "sha256": "f4257324d3b8ac26eb5c113b9268ab9714431d73fd648b17f2a9cc80e94faebe"
-  },
-  {
-    "path": "concepts.js",
-    "bytes": 3515,
-    "sha256": "770cf23fb9abfff8555e07eb07cb29bf8355928e214b6720ff63b3b1976352c8"
-  },
-  {
-    "path": "content.js",
-    "bytes": 12536,
-    "sha256": "ec833418ca68fcf149e70e5968435e5c6a59c980c48f1c123050b37206d094e2"
-  },
-  {
-    "path": "data.json",
-    "bytes": 412319,
-    "sha256": "2789b8b7b10a47f17a0120071efe2201ecbcaf921f483ed3b604f924adde6329"
-  },
-  {
-    "path": "index.html",
-    "bytes": 1565,
-    "sha256": "e4e2d40634d69fb91371a529cfe4cd13705a66506401a76f1667d1dc98b24631"
-  },
-  {
-    "path": "README.md",
-    "bytes": 2423,
-    "sha256": "e7998f893408069fb443ef506e6601d1641e75498cbe7d7bc384dab32d2d2e49"
-  },
-  {
-    "path": "style.css",
-    "bytes": 11916,
-    "sha256": "2ac8ca4fde7419e7f47b225ce5c1b859880a9b2e7697071841ade7a7e1a8b199"
   }
 ]
