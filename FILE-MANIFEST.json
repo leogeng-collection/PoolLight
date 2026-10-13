@@ -11,8 +11,8 @@
   },
   {
     "path": "app.js",
-    "bytes": 42808,
-    "sha256": "ee6b319b29f8132f58d124321311c92e158c9a0a7bd37eb9e05e77284cd5a385"
+    "bytes": 42807,
+    "sha256": "fa3cf807f67f67a1b5f9093a1740207967ca6edafefc98ed98495fc8de543261"
   },
   {
     "path": "climate.js",
@@ -31,8 +31,8 @@
   },
   {
     "path": "data.json",
-    "bytes": 474458,
-    "sha256": "a309d253036c5a5b9a974ef81a4526b33b34d80781ba20b0315ea3fe2089f43b"
+    "bytes": 479169,
+    "sha256": "0d7f3d1f84e20a93a0f50ecbd9e19ee949aa0659add0a325d60450a61cedb6cf"
   },
   {
     "path": "index.html",
@@ -41,8 +41,8 @@
   },
   {
     "path": "README.md",
-    "bytes": 2907,
-    "sha256": "4d84e73ea47015737e5a0de49f169ddd0972297e20e29bd6f0548f6e1335ece4"
+    "bytes": 3334,
+    "sha256": "9d51eabaca8ff91ea6992074aafadb30c3343ed7cd7385cb80416ab70c3f6578"
   },
   {
     "path": "style.css",
@@ -51,8 +51,8 @@
   },
   {
     "path": "teardown.js",
-    "bytes": 16935,
-    "sha256": "518f8065c26b38ca5bad13c29e2bb689fbf386d084d57541b4fed60cf124f32a"
+    "bytes": 17500,
+    "sha256": "f831e25e2f4c18465340599a7273ab9e1977e3451af0d92139259d34ed26746a"
   },
   {
     "path": "assets/concept-D01-v3.png",
@@ -181,27 +181,32 @@
   },
   {
     "path": "assets/teardown-report.md",
-    "bytes": 27076,
-    "sha256": "75f5f800804d10ef3c4a44696f4a635af35ef873a04f968274b6c9e6cfed954a"
+    "bytes": 29454,
+    "sha256": "8888edc84f4c472b1a5d424859bfac1cb86628afc69c4b0174cfa64ef9e6d0b9"
   },
   {
-    "path": "assets/teardown-T01.png",
-    "bytes": 2131469,
-    "sha256": "c440dea4ca2f1e3c3f215584fc54beeb55a3877b89eab6a7f0ae8d6b975b6cdb"
+    "path": "assets/teardown-T01-v2.png",
+    "bytes": 2242105,
+    "sha256": "3ddc27be128eb755235c7520a3946b6eba11c2a33987862871123fd834d24908"
   },
   {
-    "path": "assets/teardown-T02.png",
-    "bytes": 2203172,
-    "sha256": "eeebc03b2a3f6de03f88eda6fcdc9a2414c2e823a009911055478911b4e624c7"
+    "path": "assets/teardown-T02-v2.png",
+    "bytes": 2313766,
+    "sha256": "d6e72b22e48ed7f14b633d79d5218a252ed3a48f76bb60d5b63cb15b47fe1769"
   },
   {
-    "path": "assets/teardown-T03.png",
-    "bytes": 2394986,
-    "sha256": "a174dc9d3dee77a9e5552ddaa2e55655ac1e8caea4c013adb465f8b6c5dcddd8"
+    "path": "assets/teardown-T03-v2.png",
+    "bytes": 2513243,
+    "sha256": "1e50f0c457ca57942add6e05ecf8fe6829ab12aa6a8c5abc599e0bc264c9910c"
   },
   {
-    "path": "assets/teardown-T04.png",
-    "bytes": 2299131,
-    "sha256": "8fc0c2fd664dc193c74b652b237df9a942dcc04ecad05be71f219da8053376d3"
+    "path": "assets/teardown-T04-v2.png",
+    "bytes": 2260583,
+    "sha256": "054a43246e8bd66079e9a191eec8f40650568ca839f650acb9ad34856fc4a02b"
+  },
+  {
+    "path": "assets/teardown-T05-v2.png",
+    "bytes": 2102018,
+    "sha256": "2097fdb829c6fa1f384667a52a3197138d01407b7bc10b679e07b7628695e2bb"
   }
 ]
